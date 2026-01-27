@@ -1,2 +1,11 @@
-# IOT-water-PH-monitoring-using-ESP32-
-IOT-based water PH monitoring and mobile alert system using ESP32 and Blynk
+---
+
+## 📂 Project Documentation
+
+Detailed project documentation is available below:
+
+- 🔧 [Components List](hardware/components_list.md)
+- 🔌 [Hardware Connections](hardware/hardware_connections.md)
+- 🧩 System Architecture (to be added in docs folder)
+
+---
