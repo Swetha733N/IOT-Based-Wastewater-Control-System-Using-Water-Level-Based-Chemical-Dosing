@@ -1,10 +1,10 @@
-# 🔌 Hardware Connections
+#  Hardware Connections
 
 This section explains how the pH sensor module is connected to the ESP32 development board.
 
 ---
 
-## 📟 pH Sensor to ESP32 Connections
+##  pH Sensor to ESP32 Connections
 
 | pH Sensor Pin | ESP32 Pin | Description |
 |--------------|-----------|-------------|
@@ -14,7 +14,7 @@ This section explains how the pH sensor module is connected to the ESP32 develop
 
 ---
 
-## 🧠 Connection Explanation
+##  Connection Explanation
 
 - The **pH sensor probe** is connected to the **pH sensor module**
 - The module converts chemical activity into an **analog voltage**
