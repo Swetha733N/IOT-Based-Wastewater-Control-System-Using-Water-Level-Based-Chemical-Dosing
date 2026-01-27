@@ -23,7 +23,7 @@ This section explains how the pH sensor module is connected to the ESP32 develop
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 - Use **ADC1 pins only** (GPIO 32–39) for stable readings
 - Do not connect the sensor output to digital pins
